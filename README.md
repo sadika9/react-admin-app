@@ -1,3 +1,6 @@
+![Dashboard](screenshots/dashboard_page.png)
+![Sign In](screenshots/sign_in_page.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
